@@ -1,4 +1,3 @@
-
 # 🌱 Eco Wave – AI-Based Eco-Cultural Tourism Platform
 
 ## 📌 Overview
